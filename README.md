@@ -1,4 +1,4 @@
-# 🗣️ Language Translator Deluxe
+# 🗣️ Real Time Scanner- Using Tesseract
 
 Language Translator Deluxe is a modern PyQt5-based desktop application that allows users to extract and translate text from images, PDFs, or live camera feed into English using OCR (Tesseract) and Google Translate. The application features a clean, responsive, and visually appealing UI with animated tabs and rich user interaction.
 
